@@ -1,4 +1,4 @@
-<h1>Netflix.com Clone</h1>
+<h1>Netflix.com/Clone</h1>
 <br>
 <p>This repository contains a clone of the Netflix.com homepage, created using only HTML and CSS. The project showcases fundamental web development skills by replicating 
   the structure, layout, and styling of the original site without using JavaScript or any backend technology. 
